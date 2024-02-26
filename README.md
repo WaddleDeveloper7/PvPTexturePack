@@ -1,4 +1,5 @@
 # PvPTexturePack
 A simple PvP texture pack for Minecraft Bedrock.
-To install the texture pack, just open the zip file under the newest release, find the mcpack inside the zip, and run it. It will open Minecraft and install the texture pack.
-Alternative way: Download the .mcpack directly from the main branch and run it.
+To install the texture pack, download the .zip file named "PvPTexturePack.mcpack.zip", and get the mcpack from inside of the zip file and run it.
+Alternate option: Download the mcpack from the main branch (this is the latest version.)
+Looking for an editable version? Download the "PvPTexturePack.zip" from the latest version, this has the files inside of it.
